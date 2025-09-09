@@ -1,0 +1,18 @@
+# تجاهل مجلد node_modules (ضخم ومش لازم يتبعت)
+node_modules/
+
+# تجاهل ملف البيئة
+.env
+
+# تجاهل ملفات اللوج
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
+
+# تجاهل المخرجات المؤقتة
+dist/
+build/
