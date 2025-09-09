@@ -1,6 +1,6 @@
 import dotenv from 'dotenv'
 import path from 'path'   
-dotenv.config({path:path.resolve('src/config/.env')})
+dotenv.config({path:path.resolve('config/.env')})
 
 import { v2 as cloudinary } from 'cloudinary'
 

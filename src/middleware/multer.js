@@ -1,6 +1,5 @@
 import multer from "multer";
 import fs from "fs";
-import path from "path"
 
 export const allawedExtention={
     image:["image/png", "image/jpeg", "image/jpg", "image/gif", "image/webp"],

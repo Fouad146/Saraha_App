@@ -6,7 +6,7 @@ import bootStrap from './src/app.controller.js'
 import userModel from './src/DataBase/models/user.model.js'
 import messageModel from './src/DataBase/models/message.model.js'
 import reveokTokenModel from './src/DataBase/models/revokeToken.model.js'
-dotenv.config({path:path.resolve('src/config/.env')})
+dotenv.config({path:path.resolve('config/.env')})
 const app = express()
 const port = process.env.PORT||3000
 userModel

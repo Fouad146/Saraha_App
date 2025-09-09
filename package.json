@@ -22,5 +22,13 @@
     "multer": "^2.0.2",
     "nanoid": "^5.1.5",
     "nodemailer": "^7.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fouad146/Saraha_App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fouad146/Saraha_App/issues"
+  },
+  "homepage": "https://github.com/Fouad146/Saraha_App#readme"
 }
